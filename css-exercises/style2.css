@@ -1,0 +1,57 @@
+.body{
+    background-color: grey;
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    
+}
+.box{
+    outline: 0;
+    background-color:white;
+    margin: 30px;
+    margin-right: 500px;
+    margin-left: 150px;
+    padding: 30px;
+    
+}
+
+.box-1 h2{
+    outline: 0;
+    background-color:dodgerblue;
+    font-weight: bold;
+    padding: 12px;
+    margin: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.box-2 h2{ 
+    outline: 0;
+    background-color: dodgerblue;
+    margin: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    padding: 12px;
+}
+.box-3 h2{
+    outline: 0;
+    background-color: dodgerblue;
+    margin: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: normal;
+    padding: 4px;
+    text-align: center;
+}
+
+.box-4 {
+    outline: 2px black solid;
+    background-color: white;
+    margin: 10px;
+    margin-top: -1px;
+    margin-left: 175px;
+    margin-right: 175px;
+    font-weight: normal;
+    padding: 12px;
+    text-align: center;
+}

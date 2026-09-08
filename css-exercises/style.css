@@ -1,0 +1,25 @@
+.one {
+    outline: 4px solid blue;
+    background-color: rgb(231, 178, 178);
+    margin: 30px;
+    margin-right: 500px;
+    margin-left: 150px;
+    padding: 30px;
+}
+.two {
+    outline: 4px solid rgb(129, 74, 129);
+    background-color: lightblue;
+    margin: 12px;
+    margin-top: -12px;
+    margin-right: 485px;
+    margin-left: 135px;
+    padding-right: 30px;
+}
+.three {
+    outline: 4px solid #a96e33;
+    background-color:#FCDBB9;
+    margin: 50px;
+    margin-left: 400px;
+    margin-right: 485px;
+    padding: 30px;
+}
